@@ -7,7 +7,7 @@ Este projeto foi criado com o objetivo de estudar **desenvolvimento de jogos 2D*
 
 ## 📸 Capturas de tela
 
-![App Demo](lib/assets/demo.png)
+![App Demo](assets/images/demo.png)
 
 ---
 
